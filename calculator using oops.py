@@ -21,7 +21,7 @@ def main():
         # Ask user if they want to quit
         choice = input("Do you want to perform a calculation? (yes/no): ").strip().lower()
         if choice != 'yes':
-            print("Goodbye!")
+            print("Goodbye guys!")
             break
 
         try:

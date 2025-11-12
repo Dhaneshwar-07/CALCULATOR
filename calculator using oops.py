@@ -10,7 +10,7 @@ class Calculator:
 
     def division(self, x, y):
         if y == 0:
-            print("division error")
+            print("division  by zero error")
             return None
         return x / y
 
